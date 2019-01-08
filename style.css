@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+#computer {
+    background-image: url("computer.jpg");
+    width: 1744px;
+    height: 1308px;
+}
+
+.youtube-player {
+    position: absolute;
+    left: 387;
+    top: 185;
+}
